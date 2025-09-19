@@ -1,6 +1,8 @@
 #  Baekjoon Online Judge & Programmers Algorithm Study 📚
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pas901)](https://solved.ac/pas901/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pas901)](https://solved.ac/pas901/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=pas901&theme=warm)
+<img src="https://topsolved.mayonedev.com/api/boj?handle=pas901&row=25&base_color=default">
+
 
 안녕하세요! 👋 이 저장소는 저의 알고리즘 문제 풀이 여정을 기록하는 공간입니다. 주로 백준(Baekjoon Online Judge)과 프로그래머스(Programmers) 문제를 풀고 있으며, 꾸준함을 목표로 매일 성장하는 엔지니어가 되기 위해 노력하고 있습니다.
 
